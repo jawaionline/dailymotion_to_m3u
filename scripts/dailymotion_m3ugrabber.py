@@ -23,7 +23,7 @@ if len(sys.argv) == 2:
                 'https' : sys.argv[1]
               }
 
-na = 'https://live-b.cf.dmcdn.net/sec2(sUEfo88Nz3IGYYkjzT_N615_SMQwr6e-v4Ae6kyp8ZBVbJ72-5629CmnvDHuj1fgXEW9KDfvwunlp9aWqcwV5Gx6YasQ1MNtWDpUqH2Sd7JD7js6mG4Um0Z0GuIv5iyN)/dm/3/x8qckyq/s/live-720.m3u8'
+na = 'https://cdn.nng.cloudns.us/video/ts/oops.m3u8'
 def grab(line):
     try:
         _id = line.split('/')[4]
