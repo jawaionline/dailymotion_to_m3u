@@ -23,7 +23,7 @@ if len(sys.argv) == 2:
                 'https' : sys.argv[1]
               }
 
-na = 'https://www.dailymotion.com/video/x8qckyq'
+na = 'https://raw.githubusercontent.com/jawaionline/dailymotion_to_m3u/main/trans7.m3u'
 def grab(line):
     try:
         _id = line.split('/')[4]
