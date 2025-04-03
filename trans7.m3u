@@ -13,3 +13,6 @@
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="" tvg-logo="" tvg-id="", Trans7
 https://cdn.nng.cloudns.us/video/ts/oops.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720 group-title="France" tvg-logo="" tvg-id="", France Info
+https://live-b.cf.dmcdn.net/sec2(8L9YVbmEPeKoYT_v8O9TxNTUOl1pVrhp_4Qg43tF6nhMnsbwOa_trwkiaSFmx9NycGTnxBBAJBKHu50ANu6fnQABqf7sswKPN7mGRGw0xbp-iaoiOqalxu9MpbFvnjDd)/dm/3/x4rdeu6/d/live-380.m3u8#cell=lcfb
